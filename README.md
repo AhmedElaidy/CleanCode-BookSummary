@@ -18,3 +18,17 @@
 
 <h2> Naming? </h2>
 
+1- Don't use single-letter names in your code except in local variables inside short methods.
+
+2- If a variable might be seen or used in multiple places in a body of code, it is imperative to give it a search-friendly name.
+
+3- Avoid encoding, it just waste our time and there is enough encodings to deal with without adding more encoding.
+
+4- Make meaningful distinction.
+
+5- Use pronounceable and descriptive names so it doesn't cause errors when you try to call the name again and to facilitate communication.
+
+6- Avoid acronyms and avoid confusing names, which may bring anyone who reads the code to the wrong conclusions.
+
+<h2> Functions? </h2>
+
