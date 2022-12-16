@@ -32,3 +32,38 @@
 
 <h2> Functions? </h2>
 
+1- You should use names with words that say what it really does.
+
+2- Try to make the method take fewer parameters so it can be easily understood.
+
+3- The method should be easy to read and understand for you and every programmer coming after you.
+
+4- Avoid making two methods that do the same thing (Avoid Duplication).
+
+5- Parameters of the Boolean type as a parameter already clearly states that it does more than one thing so split the method.
+
+6- The method should convey its intention to the reader.
+
+7- Methods should only do one thing and they should do it well.
+
+8- The methods should be small. Another rule for small methods is that they should be even lower than it is.
+
+<h2> Comments? </h2>
+
+1- A comment may be used to amplify the importance of something that may otherwise seem unimportant.
+
+2- You should try to avoid writing comments because most programmers when updating the code they forget to update the comment or they ignore it.
+
+3- If you wanted to write a comment then take your time to write it and make sure it is the best comment you can write. 
+
+4- Avoid writing comments with redundant, useless, or false information.
+
+5- Don't be afraid to remove useless comments because it just pollutes the code.
+
+6- Try to explain what the code causes to happen.
+
+7- Create method names and informative variables instead of explaining the code with comments.
+
+8- Finally remember Comments do not save a bad code.
+
+<h2> Formatting? </h2>
