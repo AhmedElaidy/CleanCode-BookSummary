@@ -1,6 +1,7 @@
 <h2> What Is Clean Code? </h2>
 1- The code can be measured with either "good" or "bad" in the code review or by how many minutes it takes you to talk about it, so write clean code no matter how much time it takes time because in the future it will save your time whether by reducing bugs or by making it easy to fix bugs.
 
+
 2- A clean code should be elegant, efficient, readable, simple, without duplications, and well-written and function should be doing exact things and we can clean our code by minimizing big functions into small functions.
 
 3- Clean code offers quality and understanding when we open a class.
