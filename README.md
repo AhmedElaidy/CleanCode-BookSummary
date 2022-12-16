@@ -15,7 +15,7 @@
 
 8- Boy scout rule. Leave the campground cleaner than you found it.
 
-
+<hr>
 <h2> Naming? </h2>
 
 1- Don't use single-letter names in your code except in local variables inside short methods.
@@ -29,7 +29,7 @@
 5- Use pronounceable and descriptive names so it doesn't cause errors when you try to call the name again and to facilitate communication.
 
 6- Avoid acronyms and avoid confusing names, which may bring anyone who reads the code to the wrong conclusions.
-
+<hr>
 <h2> Functions? </h2>
 
 1- You should use names with words that say what it really does.
@@ -47,7 +47,7 @@
 7- Methods should only do one thing and they should do it well.
 
 8- The methods should be small. Another rule for small methods is that they should be even lower than it is.
-
+<hr>
 <h2> Comments? </h2>
 
 1- A comment may be used to amplify the importance of something that may otherwise seem unimportant.
@@ -65,5 +65,5 @@
 7- Create method names and informative variables instead of explaining the code with comments.
 
 8- Finally remember Comments do not save a bad code.
-
+<hr>
 <h2> Formatting? </h2>
