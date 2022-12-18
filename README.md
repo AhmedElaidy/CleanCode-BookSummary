@@ -98,3 +98,14 @@
 
 <hr>
 <h2> Error Handling </h2>
+
+Don't hide the error, Mention it and where it happens and what causes it
+
+Try not to pass a Null in methods because it can generate NullPointerExceptions.
+
+We should handle the error well and make it do the right thing.
+
+Avoid returning a NULL in methods, preferably to return an empty object if there is no values.\
+
+<hr>
+<h2> Error Handling </h2>
