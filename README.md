@@ -67,3 +67,22 @@
 8- Finally remember Comments do not save a bad code.
 <hr>
 <h2> Formatting? </h2>
+
+1- Formatting should tell us what is important in the function and make our eyes pay attention to it.
+
+2- Try to make the class smaller to make it easy to read and understand.
+
+3- Avoid horizontal alignment.
+
+4- Try not to write over 120 chars per line so you won't have to scroll to see the rest of the line.
+
+5- local variables should appear a the top of each function.
+
+6- Try to make similar functions close to each other.
+
+7- Use white space to associate related things and disassociate weakly related.
+
+8- If one function calls another, they should be vertically close, and the caller should be above the callee.
+<hr>
+<h2> Objects and data structures? </h2>
+
