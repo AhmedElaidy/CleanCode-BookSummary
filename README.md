@@ -113,3 +113,14 @@ Avoid returning a NULL in methods, preferably to return an empty object if there
 
 <hr>
 <h2> Boundary </h2>
+
+1- Read About API documentation well before using it.
+
+2- Decide what specific features you need from the API.
+
+3- Test API functionality from all sides.
+
+4- Seperate API code from other functions to make boundaries to the API.
+
+<hr>
+<h2> Unit Tests </h2>
