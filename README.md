@@ -1,4 +1,4 @@
-<h2> What Is Clean Code? </h2>
+<h2> What Is Clean Code </h2>
 1- The code can be measured with either "good" or "bad" in the code review or by how many minutes it takes you to talk about it, so write clean code no matter how much time it takes time because in the future it will save your time whether by reducing bugs or by making it easy to fix bugs.<br><br>
 
 2- A clean code should be elegant, efficient, readable, simple, without duplications, and well-written and function should be doing exact things and we can clean our code by minimizing big functions into small functions.
@@ -16,7 +16,7 @@
 8- Boy scout rule. Leave the campground cleaner than you found it.
 
 <hr>
-<h2> Naming? </h2>
+<h2> Naming </h2>
 
 1- Don't use single-letter names in your code except in local variables inside short methods.
 
@@ -29,8 +29,9 @@
 5- Use pronounceable and descriptive names so it doesn't cause errors when you try to call the name again and to facilitate communication.
 
 6- Avoid acronyms and avoid confusing names, which may bring anyone who reads the code to the wrong conclusions.
+
 <hr>
-<h2> Functions? </h2>
+<h2> Functions </h2>
 
 1- You should use names with words that say what it really does.
 
@@ -47,8 +48,9 @@
 7- Methods should only do one thing and they should do it well.
 
 8- The methods should be small. Another rule for small methods is that they should be even lower than it is.
+
 <hr>
-<h2> Comments? </h2>
+<h2> Comments </h2>
 
 1- A comment may be used to amplify the importance of something that may otherwise seem unimportant.
 
@@ -65,8 +67,9 @@
 7- Create method names and informative variables instead of explaining the code with comments.
 
 8- Finally remember Comments do not save a bad code.
+
 <hr>
-<h2> Formatting? </h2>
+<h2> Formatting </h2>
 
 1- Formatting should tell us what is important in the function and make our eyes pay attention to it.
 
@@ -83,8 +86,9 @@
 7- Use white space to associate related things and disassociate weakly related.
 
 8- If one function calls another, they should be vertically close, and the caller should be above the callee.
+
 <hr>
-<h2> Objects and data structures? </h2>
+<h2> Objects and data structures </h2>
 
 1- A data structure is a specialized format for organizing, processing, retrieving and storing data.
 
@@ -108,4 +112,4 @@ We should handle the error well and make it do the right thing.
 Avoid returning a NULL in methods, preferably to return an empty object if there is no values.\
 
 <hr>
-<h2> Error Handling </h2>
+<h2> Boundary </h2>
