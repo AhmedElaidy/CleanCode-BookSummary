@@ -86,3 +86,15 @@
 <hr>
 <h2> Objects and data structures? </h2>
 
+1- A data structure is a specialized format for organizing, processing, retrieving and storing data.
+
+2- Objects hide the data and expose methods that operate the data.
+
+3- Data structures expose your data and do not have significant methods.
+
+4- Try to Hide internal structure.
+
+5- Avoid hybrids structures by making half object and half data.
+
+<hr>
+<h2> Error Handling </h2>
