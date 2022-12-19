@@ -124,3 +124,13 @@
 
 <hr>
 <h2> Unit Tests </h2>
+
+1- Unit tests allow you to be sure that every function does what is expected from it.
+
+2- Try keeping your test code clean as much as possible.
+
+3- If the test code is good you won't be fear to add a new test code.
+
+4- Don't ignore the test code because it's important as the production code.
+
+5- The test code should be readable, fast-running, repeatable in a lot of environments, and Independent of other code.
