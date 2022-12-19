@@ -134,3 +134,20 @@
 4- Don't ignore the test code because it's important as the production code.
 
 5- The test code should be readable, fast-running, repeatable in a lot of environments, and Independent of other code.
+
+<hr>
+<h2> Classes </h2>
+
+1- Class name should tell us what is this class made for.
+
+2- Class should do only one thing (have one responsibility) and do it well.
+
+3- Separating classes reduces the opportunity of causing errors when adding new code (functions).
+
+4- Variables should be defined at the top of the class.
+
+5- Class size must be commensurate with his responsibilities.
+
+<hr>
+<h2> Systems </h2>
+
