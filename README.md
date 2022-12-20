@@ -151,3 +151,9 @@
 <hr>
 <h2> Systems </h2>
 
+1- You need clean code and refactoring your code to achieve TDD (Test Driven Development)
+
+2- The first version of the system is very hard to be perfect, the system must be available first then refactored then expanded to continue implementing new stories.
+
+3- System responsibilities should be organized and separated But it must also be coherent. 
+
