@@ -157,3 +157,16 @@
 
 3- System responsibilities should be organized and separated But it must also be coherent. 
 
+<hr>
+<h2> Emergence </h2>
+
+1- Try to improve the design in refactoring by applying all the knowledge and also by separating responsibilities, reducing (coupling, methods, and classes), increasing cohesion, and taking your time to name methods or classes.
+
+2- To express the intention of the programmer, use more expressive code to facilitate maintenance. Choosing good names for functions, classes, and tests shouldn’t be small and well-written.  
+
+3- Avoid duplication because it only brings additional work to us.
+
+4- Check that every function in the system doing what is supposed to do by making unit testing for each part of the system.
+
+<hr>
+<h2> JUnit Internals </h2>
