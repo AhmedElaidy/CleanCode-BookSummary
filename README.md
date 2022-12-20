@@ -170,3 +170,12 @@
 
 <hr>
 <h2> JUnit Internals </h2>
+
+1- Refactoring is a repeatable process full of trial and error, and it is so close to something that we feel is worthy of a professional.
+
+2- Any code can be improved, and each of us has a responsibility to make the code a little better than we found it.
+
+3- Each line of code should be tested and not every function.
+
+<hr>
+<h2> Refactoring </h2>
