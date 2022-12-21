@@ -190,4 +190,13 @@
 <h2> Smells and Heuristics </h2>
 <h3>Comments</h3>
 
-1-You should make sure that the comment is appropirate and it should be about techinacal notes about code and design.
+1- You should make sure that the comment is appropriate and it should be about technical notes about code and design.
+
+2- If you find an obsolete cmment, it is best to update it or get rid of it as quickly as possible. 
+
+3- Remove redundant comments, comments should say what the code can't say.
+
+4- You should take your time in writing code and delete it if the code is commented out; if someone needs it, he will go back to the old version.
+
+<h3>Environment</h3>
+
