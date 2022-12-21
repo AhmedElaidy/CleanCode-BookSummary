@@ -179,3 +179,12 @@
 
 <hr>
 <h2> Refactoring </h2>
+
+1- If the code needs to refactor that doesn't mean it is not clean but every code can be improved.
+
+2- You should have tests on your project first, then you can refactor your project safely.
+
+3- Most of the refactoring is renaming with more meaningful names, dividing class's responsibilities or function's responsibilities, and eliminating duplicates. 
+
+<hr>
+<h2> Smells and Heuristics </h2>
