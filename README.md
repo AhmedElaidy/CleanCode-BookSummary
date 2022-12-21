@@ -248,8 +248,28 @@
     
 <h3>Java</h3>
 
-1- Avoid long imports lists by using wildcards.
+1- Avoid long import lists by using wildcards.
 
-2- Use enum insted of int.
+2- Use an enum instead of an int.
 
 <h3>Names</h3>
+
+1- Choose descriptive names because names in software are 90 percent of what makes software readable.
+
+2- The length of a name should be related to the length of the scope (names like i and j are just fine if their scope is five lines long).
+
+3- Avoid Prefixes such as m_ or f while naming your variables.
+
+4- Name should tell us the side-effects, getOos(); funtion it creates the “oos” if it hasn’t been created already. Thus, a better name might be createOrReturnOos.
+
+<h3>Tests</h3>
+
+1- The tests are insufficient so long as there are conditions that have not been explored by the tests or calculations that have not been validated.
+
+2- Take special care to test boundary conditions. We often get the middle of an algorithm right but misjudge the boundaries.
+
+3- Bugs tend to congregate. When you find a bug in a function, it is wise to do an exhaustive test of that function. You’ll probably find that the bug was not alone.
+
+4- Keep your tests fast because a slow test is a test that won’t get run.
+
+<h2> You don’t become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive  disciplines. </h2>
