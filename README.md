@@ -188,3 +188,6 @@
 
 <hr>
 <h2> Smells and Heuristics </h2>
+<h3>Comments</h3>
+
+1-You should make sure that the comment is appropirate and it should be about techinacal notes about code and design.
