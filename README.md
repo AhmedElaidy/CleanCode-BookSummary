@@ -248,4 +248,8 @@
     
 <h3>Java</h3>
 
-1-
+1- Avoid long imports lists by using wildcards.
+
+2- Use enum insted of int.
+
+<h3>Names</h3>
