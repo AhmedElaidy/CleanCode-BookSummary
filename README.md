@@ -198,5 +198,54 @@
 
 4- You should take your time in writing code and delete it if the code is commented out; if someone needs it, he will go back to the old version.
 
-<h3>Environment</h3>
+<h3>Functions</h3>
 
+1- Reduce the number of arguments the function has as possible, no arguments in the best case.
+
+2- Avoid boolean arguments because it means that the function does more than one thing.
+
+3- If you don't use the function, just delete it.
+
+<h3>General</h3>
+
+1- The obvious behaviour should be implemented.
+
+2- Make sure to write a test for every boundary, Don’t rely on your intuition that every thing will work well.
+
+3- Don't override safeties like turning off compiler warnings and turning off failure tests and telling yourself you will get them to pass later.
+
+4- Don't repeat yourself (Avoid duplications), use abstraction instead.
+
+5- The fewer methods a class has, the better. The fewer variables a function knows about, the better. The fewer instance variables a class has, the better.
+
+6- Dead code dosen't apply new rules when the system updates so when you find dead code, Delete it from the system.
+
+7- Local variables should be declared just above their first usage and private functions should be defined just below their first usage.
+
+8- Be careful with the rules you choose, and once chosen, be careful to continue to follow them.
+
+9- In general it is better to have many functions than to pass some code into a function to select the behavior.
+
+10- In general you should prefer nonstatic methods to static methods, If you really want a function to be static, make sure that there 
+    is no chance that you’ll want it to behave polymorphically. 
+
+11- Break the calculations up into intermediate values that are held in variables with meaningful names.
+
+12- If you are joining a new project, Take your time to know how the code works before adding new methods to it.
+
+13- Prefer polymorphism to IF/ELSE or SWITCH/CASE ( polymorphism is to use the same method name in every function with different implimation ).
+
+14- Replace magic numbers with named constants.
+
+15- Encapsulate if conditions and avoid negative conditionals.
+
+16- Functions should do one thing.
+
+17- Encapsulate  boundary conditions (Don't use (level + 1) define it in a variable called nextLevel)
+
+18- We don’t want a single module to know much about its collaborators we don’t want modules that useA to know about C. 
+    (For example, we don’t want a.getB().getC().doSomething();).
+    
+<h3>Java</h3>
+
+1-
