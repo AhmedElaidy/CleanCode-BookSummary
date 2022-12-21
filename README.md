@@ -271,5 +271,3 @@
 3- Bugs tend to congregate. When you find a bug in a function, it is wise to do an exhaustive test of that function. You’ll probably find that the bug was not alone.
 
 4- Keep your tests fast because a slow test is a test that won’t get run.
-
-<h2> You don’t become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive  disciplines. </h2>
