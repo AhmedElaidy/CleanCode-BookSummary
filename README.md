@@ -30,6 +30,8 @@
 
 6- Avoid acronyms and avoid confusing names, which may bring anyone who reads the code to the wrong conclusions.
 
+7- Don't name a group of accounts as accountList except if the accounts type is a list.
+
 <hr>
 <h2> Functions </h2>
 
